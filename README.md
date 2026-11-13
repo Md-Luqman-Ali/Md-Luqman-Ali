@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:123B65,75:30205F,100:07111F&height=230&section=header&text=MD%20LUQMAN%20ALI&fontSize=42&fontColor=EAF6FF&animation=fadeIn&fontAlignY=36&desc=THE%20DATA%20AVENGER%20%7C%20ANALYTICS%20%2B%20AI&descSize=16&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:123B65,75:30205F,100:07111F&height=230&section=header&text=MD%20LUQMAN%20ALI&fontSize=42&fontColor=EAF6FF&animation=fadeIn&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descSize=14&descAlignY=58" />
 
-# ⚡ DATA AVENGER | AI COMMAND CENTRE
+# ⚡ DATA AVENGER | ANALYTICS & AI PORTFOLIO
 
-### Data Analyst • Python Developer • Machine Learning Enthusiast
+### Data Analyst · Business Intelligence · Machine Learning
 
-*Turning raw data into intelligence. Turning intelligence into impact.*
+*Turning business data into clear insights and practical solutions.*
 
 📍 Bengaluru, India
 
@@ -18,38 +18,34 @@
 
 ---
 
-## 🧬 01 | SYSTEM PROFILE
+## 👨‍💻 About
 
-> SYSTEM ONLINE • DATA INTELLIGENCE INITIATED
+I am a Computer Science Engineering graduate (2023) focused on **Data Analytics, Business Intelligence and applied Machine Learning**.
 
-I'm a Computer Science Engineering graduate focused on Data Analytics, Business Intelligence and Machine Learning.
+My professional background combines approximately **one year of KYC operations experience** and **one year in MIS reporting and data analysis**. In these roles, I developed practical experience working with operational records, data quality, reporting, and business information.
 
-My professional experience includes KYC operations and MIS reporting, with a focus on business data, dashboards and analytical problem-solving.
+I enjoy turning raw data into structured analysis, useful dashboards and understandable findings. I am currently strengthening my portfolio and pursuing opportunities in Data Analyst and Business Analyst roles, while continuing to build my machine-learning skills.
 
-**Current mission:**
-- Transform business data into actionable insights.
-- Build interactive dashboards and analytical reports.
-- Develop Python-based data analysis solutions.
-- Explore predictive modelling and machine learning.
+## 🎯 Career focus
 
----
+- Data Analyst
+- Business Analyst
+- MIS / Reporting Analyst
+- Junior Machine Learning / Data Science opportunities
 
-## ⚡ 02 | TECHNOLOGY ARSENAL
+## 🧰 Technical skills
 
 <div align="center">
 
-### CORE TECHNOLOGIES
-
+### Programming & databases
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
 
-### DATA & BUSINESS INTELLIGENCE
-
+### Analytics & business intelligence
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
-### PYTHON DATA SCIENCE
-
+### Python data stack
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
@@ -58,59 +54,47 @@ My professional experience includes KYC operations and MIS reporting, with a foc
 
 </div>
 
----
+**Core capabilities:** SQL querying · Data cleaning · Exploratory Data Analysis · Excel reporting · Dashboarding · Data visualization · Basic predictive modelling
 
-## 🔮 03 | ANALYTICS MISSIONS
+## 💼 Professional experience
 
-*Business Intelligence • Dashboard Engineering • Exploratory Data Analysis*
+| Experience | Focus |
+|---|---|
+| MIS Executive — Data Analysis & Reporting | MIS updates, operational data, reporting, Excel analysis and dashboards |
+| KYC Analyst — Video KYC Operations | Customer verification workflows, process quality, documentation and operational accuracy |
 
-| Mission | Technology | Explore |
+*Experience durations are approximate and based on my professional background.*
+
+## 📊 Data analytics & BI projects
+
+| Project | Tools | Repository |
 |---|---|---|
-| Zomato Restaurants Analysis | Python / Analytics | [OPEN](https://github.com/Md-Luqman-Ali/Zomato-Restaurants-Analysis-project) |
-| Netflix Dashboard | Power BI | [OPEN](https://github.com/Md-Luqman-Ali/Netflix-Movies-and-TV-Shows-Dashboard) |
-| Sales Dashboard | Excel | [OPEN](https://github.com/Md-Luqman-Ali/Sales-Dashboard-Using-Excel-Data-Analyst-Project) |
-| Exploratory Data Analysis | Python | [OPEN](https://github.com/Md-Luqman-Ali/Exploratory-Data-Analysis-Python) |
+| Zomato Restaurants Analysis | Python, Pandas, EDA | [View project](https://github.com/Md-Luqman-Ali/Zomato-Restaurants-Analysis-project) |
+| Netflix Movies & TV Shows Dashboard | Power BI | [View project](https://github.com/Md-Luqman-Ali/Netflix-Movies-and-TV-Shows-Dashboard) |
+| Sales Dashboard | Excel | [View project](https://github.com/Md-Luqman-Ali/Sales-Dashboard-Using-Excel-Data-Analyst-Project) |
+| Exploratory Data Analysis | Python | [View project](https://github.com/Md-Luqman-Ali/Exploratory-Data-Analysis-Python) |
 
----
+## 🤖 Machine learning projects
 
-## 🧠 04 | MACHINE LEARNING LAB
-
-*Predictive Intelligence • Classification • Recommendation Systems*
-
-| Mission | Domain | Explore |
+| Project | Problem type | Repository |
 |---|---|---|
-| Iris Flower Classification | Classification | [OPEN](https://github.com/Md-Luqman-Ali/iris_flower_classification_model) |
-| House Price Prediction | Regression | [OPEN](https://github.com/Md-Luqman-Ali/Precdtion_real_state_house_price) |
-| Spam Detection | Classification | [OPEN](https://github.com/Md-Luqman-Ali/Spam_detection) |
-| Product Recommendation | Recommendation | [OPEN](https://github.com/Md-Luqman-Ali/Product_recommendation) |
+| Iris Flower Classification | Classification | [View project](https://github.com/Md-Luqman-Ali/iris_flower_classification_model) |
+| Delhi House Price Prediction | Regression | [View project](https://github.com/Md-Luqman-Ali/Precdtion_real_state_house_price) |
+| SMS Spam Detection | NLP / Classification | [View project](https://github.com/Md-Luqman-Ali/Spam_detection) |
+| Product Recommendation System | Content-based recommendation | [View project](https://github.com/Md-Luqman-Ali/Product_recommendation) |
+| Handwritten Digit Recognition | CNN / Image classification | [View project](https://github.com/Md-Luqman-Ali/digit_recognition) |
 
----
+## 📚 Education & learning
 
-## 🎯 05 | CAREER DIRECTIVE
+- **B.Tech — Computer Science Engineering**, 2023
+- Data Analyst certification / training
+- Continuous learning in SQL, Python, Power BI, statistics and machine learning
 
-**Target roles**
+## 🌐 Connect
 
-- Data Analyst
-- Business Analyst
-- Junior Machine Learning Engineer
-
-**Core focus**
-
-SQL | Python | Power BI | Excel | Data Visualization | Machine Learning
-
----
-
-## 🌐 06 | CONNECT TO THE NETWORK
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdluqmanali/)
-
-[![YouTube](https://img.shields.io/badge/Coding_Karo-YouTube_Channel-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@thecodingkaro)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Project_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Md-Luqman-Ali)
-
-</div>
+- **LinkedIn:** [linkedin.com/in/mdluqmanali](https://www.linkedin.com/in/mdluqmanali/)
+- **GitHub:** [github.com/Md-Luqman-Ali](https://github.com/Md-Luqman-Ali)
+- **YouTube:** [Coding Karo](https://youtube.com/@thecodingkaro)
 
 ---
 
@@ -118,8 +102,8 @@ SQL | Python | Power BI | Excel | Data Visualization | Machine Learning
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:172554,100:6D28D9&height=130&section=footer&text=CODE%20%7C%20LEARN%20%7C%20ANALYZE%20%7C%20BUILD&fontSize=19&fontColor=EAF6FF&animation=fadeIn" />
 
-**SYSTEM STATUS: ALWAYS LEARNING. ALWAYS BUILDING.**
+**ALWAYS LEARNING. ALWAYS BUILDING.**
 
-*Powered by curiosity. Driven by data.*
+*Curiosity drives me. Data guides me.*
 
 </div>
